@@ -1,2 +1,0 @@
-# depot
-Learning project
